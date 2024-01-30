@@ -109,7 +109,7 @@
         android:layout_height="wrap_content"
         android:layout_marginBottom="100dp"
         android:fontFamily="sans-serif-condensed-light"
-        android:text="Made by ExIntercept"
+        android:text="Made by BlackJackX100"
         android:textAllCaps="true"
         android:textAppearance="@style/TextAppearance.AppCompat.Display1"
         app:layout_constraintBottom_toBottomOf="parent"
